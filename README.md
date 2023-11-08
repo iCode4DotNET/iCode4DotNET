@@ -1,4 +1,4 @@
-### <img src="giphy.webp">
+### <img src="giphy.webp" width="200" height="200">
 
 <!--
 **iCode4DotNET/iCode4DotNET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
